@@ -73,3 +73,7 @@ Customer Reviews
 Search Analytics
 - Search activity can be recorded.
 - Search usage can be reviewed.
+
+Order Confirmation
+- Customers receive confirmation after placing an order.
+- The confirmation includes the order reference.
